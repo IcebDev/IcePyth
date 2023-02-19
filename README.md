@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IcePyth
 - 👀 I’m interested in SNeaks
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
